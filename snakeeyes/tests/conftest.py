@@ -22,4 +22,4 @@ def app():
 
 @pytest.yield_fixture(scope='function')
 def client(app):
-  yield app.test_client()
+    yield app.test_client()
