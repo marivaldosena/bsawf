@@ -40,6 +40,8 @@ docs/_build/
 .*.sw*
 *~
 .idea/
+.code/
+.vscode/
 .mr.developer.cfg
 .project
 .pydevproject
